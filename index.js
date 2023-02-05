@@ -1,10 +1,3 @@
-//Sorry about the multiple files. This will definitely be one I'll re-submit...
-//the ones to look at are (under the guess-the-number folder) are: extended range.js, index.js, and inversegame.js
-//I know it's mostly there but tweaks definitely need to be made.
-//Couldn't figure out how to combine the two versions, had difficulty with the cheat clauses
-//and something in the randNum function in the extended range version is off
-//I just could not finish it the way I wanted to for the life of me
-
 const readline = require('readline');
 const rl = readline.createInterface(process.stdin, process.stdout);
 
